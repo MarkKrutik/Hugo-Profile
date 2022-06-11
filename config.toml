@@ -1,4 +1,4 @@
-baseURL = 'https://markkrutik.github.io/Hugo-Profile/'
+baseURL = 'https://markkrutik.github.io/Mark-Krutik-Profile/'
 languageCode = 'en-us'
 title = 'Mark Krutik Resume Website'
 theme = 'massively'
